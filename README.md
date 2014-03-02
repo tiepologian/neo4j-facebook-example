@@ -12,6 +12,7 @@ This project uses the py2neo module to connect to the Neo4j RESTful interface, t
 ### Requirements
 - Python 2.7
 - [Neo4j v2.0](http://www.neo4j.org)
+- [py2neo](https://github.com/nigelsmall/py2neo)
 - [pythonforfacebook/facebook-sdk](https://github.com/pythonforfacebook/facebook-sdk)
 - Facebook Access Token (You will need to register as a Facebook Developer https://developers.facebook.com/apps)
 
